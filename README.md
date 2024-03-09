@@ -1,1 +1,3 @@
-# hmis-repo01
+# 🚀 Repositorio de la asignatura
+
+### ⭐ Estudiante: Alex Craviotto
